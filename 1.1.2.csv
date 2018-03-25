@@ -1,0 +1,6 @@
+consumption_id,name,description,department_id
+1,"Техническое обслуживание",NULL,1
+2,"Покупка ПО",NULL,2
+3,"Покупка бумаги",NULL,3
+4,"Покупка ПО",NULL,4
+5,"Техническое обслуживание",NULL,5
